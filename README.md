@@ -27,3 +27,10 @@ the view controller you want to present.
 ```swift
 presentPushModal(yourViewController)
 ```
+
+## Example App
+
+For a usage example, see the example app in
+[`BaseNavigationController`](https://github.com/sonfrdy/BaseNavigationController).
+It demonstrates presenting a `UINavigationController`-based flow with PushModal,
+including push-style transitions and an interactive pop-style dismissal gesture.
