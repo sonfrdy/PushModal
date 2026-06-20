@@ -5,7 +5,7 @@ import PackageDescription
 let package = Package(
   name: "PushModal",
   platforms: [
-    .iOS(.v15)
+    .iOS(.v13)
   ],
   products: [
     .library(
@@ -16,8 +16,8 @@ let package = Package(
   targets: [
     .binaryTarget(
       name: "PushModal",
-      url: "https://github.com/sonfrdy/PushModal/releases/download/1.0.0/PushModal.xcframework.zip",
-      checksum: "3469bf48b187eeaab011932ae05d14e083823f59326e14ee85a8f7fb118546ec"
+      url: "https://github.com/sonfrdy/PushModal/releases/download/1.1.0/PushModal.xcframework.zip",
+      checksum: "00ab1cff3415ce3b50e5417b64226bd9e4a0544667fa6ddaaa98402183477028"
     )
   ]
 )

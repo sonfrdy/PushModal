@@ -6,15 +6,14 @@ gesture.
 
 ## Requirements
 
-- iOS 15.0+
-- Swift Package Manager
+- iOS 13.0+
 
 ## Installation
 
 Add this package with Swift Package Manager:
 
 ```swift
-.package(url: "https://github.com/sonfrdy/PushModal.git", from: "1.0.0")
+.package(url: "https://github.com/sonfrdy/PushModal.git", from: "1.1.0")
 ```
 
 Then add `PushModal` to your app target.
