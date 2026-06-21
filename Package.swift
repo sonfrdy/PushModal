@@ -16,8 +16,8 @@ let package = Package(
   targets: [
     .binaryTarget(
       name: "PushModal",
-      url: "https://github.com/sonfrdy/PushModal/releases/download/1.1.0/PushModal.xcframework.zip",
-      checksum: "00ab1cff3415ce3b50e5417b64226bd9e4a0544667fa6ddaaa98402183477028"
+      url: "https://github.com/sonfrdy/PushModal/releases/download/1.1.1/PushModal.xcframework.zip",
+      checksum: "e2ac77d572056b6f252f9e0093430788b571a0b963585f90d634f8ce6532f941"
     )
   ]
 )
